@@ -61,8 +61,3 @@ Once the app is running:
 
 * Choose how many future weeks you'd like to forecast (added to base 30)
 * View the forecast plot and table for future sales predictions
-
----
-
-If you'd like, I can also generate the `requirements.txt` content or help you style your README! 🚀
-Tell me your GitHub repo link if you want it personalized!
