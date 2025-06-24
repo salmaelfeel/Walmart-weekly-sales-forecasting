@@ -11,8 +11,7 @@ It allows users to interactively generate multi-step sales forecasts with a Stre
 
 * Trained on complete Walmart Department 27 dataset for accurate trend and seasonality modeling
 * Forecasts future weekly sales based on user-defined forecast horizon
-* Interactive Streamlit app for generating and visualizing predictions
-* Outputs both a forecast plot and a detailed forecast table
+* Outputs a detailed forecast table
 
 ---
 
