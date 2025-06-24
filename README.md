@@ -60,4 +60,4 @@ streamlit run app.py
 Once the app is running:
 
 * Choose how many future weeks you'd like to forecast (added to base 30)
-* View the forecast plot and table for future sales predictions
+* View the forecast table for future sales predictions
