@@ -21,7 +21,7 @@ It allows users to interactively generate multi-step sales forecasts with a Stre
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/walmart-weekly-sales-forecasting.git
+git clone https://github.com/salmaelfeel/walmart-weekly-sales-forecasting.git
 cd walmart-weekly-sales-forecasting
 ```
 
